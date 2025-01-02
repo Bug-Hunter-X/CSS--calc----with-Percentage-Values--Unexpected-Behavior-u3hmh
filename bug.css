@@ -1,0 +1,1 @@
+The CSS property `calc()` is used to perform calculations with different units. However, using `calc()` with a percentage value can lead to unexpected behavior when the percentage is dependent on the parent element's dimensions. If the parent element's dimensions are not yet determined when the calculation is done, the result can be inaccurate.
